@@ -1,8 +1,17 @@
 <h2> Hey there! I'm Schawarski. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-[Linkedin]()
 
 <h3> 👨🏻‍💻 About Me </h3>
  💬 I am a full stack javascript developer who likes challenges always willing to learn and give as much as possible.
+ 
+ <h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; NodeJS | MongoDB  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Xampp | Apache
+- 🔧 &nbsp; PhpStorn | Visual Studio code| Git | Docker
+- 🖥 &nbsp; Illustrator | Photoshop 
+
+<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
