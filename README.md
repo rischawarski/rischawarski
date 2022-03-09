@@ -6,8 +6,8 @@
  
  <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | MongoDB  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; NodeJS | MongoDB | Expressjs  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Nextjs
 - 🛢 &nbsp; MySQL | Xampp | Apache
 - 🔧 &nbsp; PhpStorn | Visual Studio code| Git | Docker
 - 🖥 &nbsp; Illustrator | Photoshop 
