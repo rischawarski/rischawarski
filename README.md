@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Schawarski. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="![pcloko](https://github.com/rischawarski/rischawarski/assets/38566736/972bc398-17ab-422b-a41c-98cf73e62ca6)" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/rischawarski/rischawarski/assets/38566736/972bc398-17ab-422b-a41c-98cf73e62ca6" width="500"/>
 ![pcloko](https://github.com/rischawarski/rischawarski/assets/38566736/972bc398-17ab-422b-a41c-98cf73e62ca6)
 <h3> 👨🏻‍💻 About Me </h3>
  💬 I am a full stack javascript developer who likes challenges always willing to learn and give as much as possible.
